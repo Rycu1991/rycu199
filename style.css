@@ -35,5 +35,6 @@ label{
     label{
         bottom:100px;
         left: 120px;
+        position:static;
     }
 }

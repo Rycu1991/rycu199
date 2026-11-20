@@ -20,7 +20,7 @@ img{
     border: none;
     position:relative;
     @media(max-width: 768px){
-    position:absolute;
+    position:static;
 }
 }
 label{
@@ -29,6 +29,8 @@ label{
     top: 120px;
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
+    @media(max-width:768px){
+        position:static;
 }
 }
 @media(max-width: 768px){

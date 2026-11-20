@@ -33,7 +33,7 @@ label{
 }
 @media(max-width: 768px){
     label{
-        bottom:12px;
-        left: 12px;
+        bottom:100px;
+        left: 120px;
     }
 }

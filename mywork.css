@@ -19,6 +19,6 @@ video{
     height:300px;
     max-width: 100%;
 }
-@media(max-width: 768px){
-    h1{ font-size:40px;}
+@media (max-width: 768px){
+    h1{ font-size:10px;}
 }

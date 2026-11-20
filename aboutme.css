@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(183, 121, 41);
+}
+.container{
+    color: aliceblue;
+    font-size: 40px;
+}
+.home , a{
+    color: rgb(114, 82, 39);
+    text-decoration: solid;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+@media(max-width: 768px){
+    
+}

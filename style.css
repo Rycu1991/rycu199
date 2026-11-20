@@ -30,7 +30,7 @@ label{
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
     @media(max-width: 768px){
-    
+    position:absolute;
 }
 }
 @media(max-width: 768px){

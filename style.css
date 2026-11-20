@@ -29,11 +29,11 @@ label{
     top: 120px;
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
-    @media(max-width: 768px){
-    bottom 12px;
-        left:12px;
 }
 }
 @media(max-width: 768px){
-    
+    label{
+        bottom:12px;
+        left: 12px;
+    }
 }

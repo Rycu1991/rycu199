@@ -20,7 +20,7 @@ img{
     border: none;
     position:relative;
     @media(max-width: 768px){
-    
+    position:absolute;
 }
 }
 label{

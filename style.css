@@ -19,9 +19,6 @@ img{
     text-align: center;
     border: none;
     position:relative;
-    @media(max-width: 768px){
-    position:static;
-}
 }
 label{
     background-color: white;
@@ -30,11 +27,4 @@ label{
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
 
-}
-@media(max-width: 768px){
-    label{
-        background-color:white;
-        z-index: -2;
-        height:auto;
-    }
 }

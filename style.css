@@ -37,7 +37,7 @@ label{
         margin-left: 12px;
         position:absolute;
         background-color:white;
-        
+        z-index: 999;
         height:auto;
     }
 }

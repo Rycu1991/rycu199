@@ -22,7 +22,7 @@ img{
 }
 label{
     background-color: white;
-    position:static;
+    position:absolute;
     top: 120px;
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;

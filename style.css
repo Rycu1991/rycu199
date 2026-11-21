@@ -15,16 +15,30 @@ img{
     border-radius: 30px;
     max-width: 100%;
 }
-.Links{
-    text-align: center;
-    border: none;
-    position:absolute;
+.Links a {
+  position: relative;
+  display: inline-block;
+  text-align: center;
 }
-label{
-    background-color: white;
-    position:absolute;
-    top: 120px;
-    color: aliceblue;
-    font-family: 'Courier New', Courier, monospace;
 
+.Links a label {
+  position: absolute;
+  top: 120px;
+  left: 0px;
+ background-color: black;
+ color: antiquewhite;
+}
+.Links {
+  display: flex;
+  flex-direction: row;
+  align-items: center; 
+  justify-content: center;
+  gap: 20px;              
+  width: 100%;            
+}
+@media(max-width:768px) {
+    .Links{
+        display: flex;
+        flex-direction: column;
+    }
 }

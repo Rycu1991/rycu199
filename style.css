@@ -33,10 +33,10 @@ label{
 }
 @media(max-width: 768px){
     label{
-        margin-bottom:100px;
-        margin-left: 120px;
+        margin-top:10px;
+        margin-left: 12px;
         position:absolute;
-        width:100%;
+        
         height:auto;
     }
 }

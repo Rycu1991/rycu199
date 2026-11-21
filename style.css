@@ -24,7 +24,7 @@ img{
 }
 }
 label{
-    background-color: rgb(0, 0, 0);
+    background-color: white;
     position:absolute;
     top: 120px;
     color: aliceblue;

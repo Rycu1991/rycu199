@@ -18,7 +18,7 @@ img{
 .Links{
     text-align: center;
     border: none;
-    position:relative;
+    position:absolute;
 }
 label{
     background-color: white;
